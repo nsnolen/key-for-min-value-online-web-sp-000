@@ -11,4 +11,3 @@ min_key, min_value = name_hash.first
 end
 min_key
 end
-  
